@@ -8,7 +8,7 @@ This repository contains the production code and assets serving the primary publ
 
 ### Commercial & Licensing
 For enterprise software licensing, technical inquiries, or partnership discussions:
-- **Web:** https://www.fmmsc.com(https://www.fmmsc.com)
+- **Web:** https://www.fmmsc.com
 - **Contact:** `client@fmmsc.com`
 
 ### Security & Vulnerability Disclosure
